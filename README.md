@@ -2,7 +2,7 @@
 
 > A comprehensive dataset for detecting and classifying leukocytes and related microorganisms in microscopic images.
 
-📥 **[Download Dataset]([https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z])**
+📥 **[Download Dataset](https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z)**
 
 > `[https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z]`
 
