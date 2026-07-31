@@ -193,7 +193,7 @@ If you use this dataset in your research, please cite:
   author = {Gang Lyu, Kai Jiang, Qiang Chen},
   year = {2026},
   doi = {10.5281/zenodo.21711947},
-  howpublished = {\url{https://github.com/LFI-Leuko/LFI-Leuko}},
+  url = {https://zenodo.org/records/21711948},
   note = {Available at: [https://zenodo.org/records/21711948]}
 }
 ```
