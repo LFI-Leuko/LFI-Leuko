@@ -2,13 +2,14 @@
 
 > A comprehensive dataset for detecting and classifying leukocytes and related microorganisms in microscopic images.
 
-📥 **[Download Dataset](https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z)**
+**[Download Dataset](https://zenodo.org/records/21711948)**
 
-> `[https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z]`
+> `[https://zenodo.org/records/21711948]`
 
+**DOI:** [10.5281/zenodo.21711947](https://doi.org/10.5281/zenodo.21711947)
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Dataset Structure](#dataset-structure)
@@ -191,8 +192,9 @@ If you use this dataset in your research, please cite:
   title = {LFI-Leuko: A Dataset for Leukocyte and Microorganism Detection},
   author = {Gang Lyu, Kai Jiang, Qiang Chen},
   year = {2026},
+  doi = {10.5281/zenodo.21711947},
   howpublished = {\url{https://github.com/LFI-Leuko/LFI-Leuko}},
-  note = {Available at: [https://pan.baidu.com/s/13MPnn_fcK0lYb3NL8n0kcw?pwd=yq2z]}
+  note = {Available at: [https://zenodo.org/records/21711948]}
 }
 ```
 
